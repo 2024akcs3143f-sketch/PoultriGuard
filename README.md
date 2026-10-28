@@ -2,7 +2,7 @@
 
 **An AI-Based Poultry Disease Detection, Early Warning and Farm Management System for Smallholder Farmers in Uganda**
 
-## 1. Project Overview
+## 1. Project overview
 
 PoultriGuard is a Bachelor of Computer Science project proposed to support smallholder poultry farmers and agricultural extension officers in Uganda. The system is intended to provide AI-assisted preliminary poultry disease screening, symptom-based decision support, locality-based early-warning alerts and digital farm record management.
 
